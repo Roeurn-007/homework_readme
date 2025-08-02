@@ -79,13 +79,13 @@ http://localhost:3000/api
 
 ## 📮 API Endponts
 
-|Method | Endpoint            | Description       |
+|Method | Endpoint          | Description       |
 |-------|---------------------|-------------------|
-| POST   |/api/auth/login      | Login to system   |
-| GET   |/api/students      | Login to system   |
-| POST   |/api/students      | Login to system   |
-| PUT   |/api/students/:id      | Login to system   |
-| DELETE   |/api/tudents/:id     | Login to system   |
+| POST |/api/auth/login | Login to system |
+| GET |/api/students  | Login to system |
+| POST |/api/students  | Login to system |
+| PUT  |/api/students/:id  | Login to system  |
+| DELETE  |/api/tudents/:id | Login to system |
 
 
 ## 🔑 Environment Variables
@@ -97,14 +97,14 @@ JWT_SECRET=your_jwt_secret_key
 ```
 ## 🧪 Scripts
 ```bash
-npm start       # Start the server
-npm run dev     # Start with nodemon
-npm test        # Run test cases
+npm start     # Start the server
+npm run dev   # Start with nodemon
+npm test      # Run test cases
 ```
 
 
 ## 👥 Contributors
-![@radytrainer](https://contrib.rocks/image?repo=radytrainer/demo-readme-file)
+![profile](/images/profile.png)
 
 
 ## 📄 License
